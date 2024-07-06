@@ -11,3 +11,17 @@ your instructor. Adaptation and understanding are key.
 it. Embrace learning over rote repetition.
 <br>
 Happy coding!
+
+
+PART B SIMULATION VIDEOS (YOUTUBE) :
+
+1. [Question 1](https://youtu.be/yInGShPfTIY)
+2. [Question 2](https://youtu.be/eHtEJEd0omw)
+3. [Question 3](https://youtu.be/CL2fp6qgEiM)
+4. [Question 4](https://youtu.be/2Qe53q-35es)
+5. [Question 5](https://youtu.be/V4oVmjUPmiA)
+6. [Question 6](https://youtu.be/htWM4zNkhTM)
+
+
+
+Contributed by Abhishek V K & N Chinmaya

@@ -1,3 +1,4 @@
+//SERVER - Create a file called hello.txt in the current directory and pass that as the file name for server
 #include<stdio.h>
 #include<arpa/inet.h>
 #include<sys/types.h>

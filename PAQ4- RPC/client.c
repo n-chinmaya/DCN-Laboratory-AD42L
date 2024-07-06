@@ -5,8 +5,6 @@
  */
 
 #include "add.h"
-
-
 void add_prog_1(char *host, int x, int y)
 {
 	CLIENT *clnt;
@@ -20,7 +18,6 @@ void add_prog_1(char *host, int x, int y)
 		exit (1);
 	}
 #endif	/* DEBUG */
-
 add_1_arg.a=x;
 add_1_arg.b=y;
 
@@ -28,21 +25,17 @@ add_1_arg.b=y;
 	if (result_1 == (int *) NULL) {
 		clnt_perror (clnt, "call failed");
 	}
-	else
-	{
+	else{
 	printf("Result=%d",*result_1);
 	}
 #ifndef	DEBUG
 	clnt_destroy (clnt);
 #endif	 /* DEBUG */
 }
-
-
 int
 main (int argc, char *argv[])
 {
 	char *host;
-
 	if (argc < 4) {
 		printf ("usage: %s server_host\n", argv[0]);
 		exit (1);
